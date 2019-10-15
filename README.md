@@ -11,4 +11,4 @@
 
 • Implementar o search para facilitar as buscas
 
-• Personalizar o layout
+• Personalizar o layout para que ele seja totalmente responsivo
